@@ -3,7 +3,7 @@
 #[Estado actual del uso de los marcadores moleculares en moluscos bivalvos de importancia para la acuicultura](http://www.fao.org/3/a-i0444s/i0444s23.pdf)
 ####M.P. Astorga
 
-**instituto de acuicultura, universidad austral de chile**
+**Instituto de acuicultura, Universidad Austral de Chile**
 
 **Resumen por:** Karla Lizeth Castro Valencia 
 
