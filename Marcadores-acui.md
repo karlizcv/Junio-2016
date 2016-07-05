@@ -18,3 +18,4 @@ A futuro se espera un alto desarrollo de EST para implemento de microarreglos, q
 fenotípicas observadas en los organismos estudiados. 
 
 Astorga, M. P. (2008). Estado actual del uso de marcadores moleculares en moluscos bivalvos de importancia para la acuicultura. Estado actual del cultivo y manejo de moluscos bivalvos y su proyección futura, 277.
+
