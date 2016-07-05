@@ -16,3 +16,5 @@ de los que se encuentra muy poca información genómica en  comparación con otr
 por lo que se considera que la utilización de estas herramientas aun esta en desarrollo, sobre todo en América latina. 
 A futuro se espera un alto desarrollo de EST para implemento de microarreglos, que permiten entender las causas de las respuestas 
 fenotípicas observadas en los organismos estudiados. 
+
+Astorga, M. P. (2008). Estado actual del uso de marcadores moleculares en moluscos bivalvos de importancia para la acuicultura. Estado actual del cultivo y manejo de moluscos bivalvos y su proyección futura, 277.
