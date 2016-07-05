@@ -1,5 +1,7 @@
 #[Estado actual del uso de los marcadores moleculares en moluscos bivalvos de importancia para la acuicultura](http://www.fao.org/3/a-i0444s/i0444s23.pdf)
 
+###Resumen por: Karla Lizeth Castro Valencia 
+
 La genómica, en general, se encarga de estudiar la función de los genes, su objetivo es entender la estructura del genoma,  
 el mapeo de genes y la secuenciación del ADN, así mismo se encarga de revisar los  mecanismos moleculares y la relación entre 
 genética y los factores ambientales. Esta línea de investigación se divide en dos partes; genómica estructural y genómica funcional. 
